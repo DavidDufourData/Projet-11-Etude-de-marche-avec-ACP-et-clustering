@@ -2,7 +2,12 @@
 
 ## Contexte et objectifs
 
+La poule qui chante est une entreprise française d’agroalimentaire dont l'activité principale est l’élevage et la vente de poulets sous le label “Poulet Agriculture Biologique”.  
+Son activité actuelle est franco-française mais Patrick, le PDG de l’entreprise souhaite évaluer la possibilité de se développer à l'international.
+
 Ce projet consiste à analyser un marché international en appliquant une Analyse en Composantes Principales puis un clustering afin de segmenter les pays selon leurs caractéristiques.
+Pour cela, nous partirons des données de la FAO (Food and Agriculture Organization) et d'autres données en open data comme la Banque Mondiale pour pouvoir sélectionner les données à analyser.  
+Après préparation et nettoyage des données, nous procéderons à l'exploration des données puis à l'analyse via une ACP (cercle des corrélations + projection des individus) et un clustering (CAH - classification ascendante hiérarchique, K-Means). 
 
 ## Soft Skills
 - Interprétation de résultats statistiques avancés  
