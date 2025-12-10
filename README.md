@@ -22,7 +22,7 @@ Après préparation et nettoyage des données, nous procéderons à l'exploratio
 - Analyse des groupes et recommandations  
 
 ## Outils utilisés
-- Python  
+- Notebook Jupyter  
 - Pandas, Scikit-learn, Matplotlib, Seaborn  
 
 ##
